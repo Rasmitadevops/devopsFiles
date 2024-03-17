@@ -1,3 +1,1 @@
-This is my docket file
-
-welcome to my file
+This is my first docker file
